@@ -1,3 +1,9 @@
 This is an example of a file
 
 Here's more text
+
+One good example of this
+
+Is adding more stuff to the file
+
+And then deleting it.
